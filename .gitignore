@@ -1,0 +1,17 @@
+/jadx/
+/node_modules/
+/modules/ffmpeg/
+/modules/mkvtoolnix/
+ffmpeg
+config.profile.yml
+config.session.yml
+package-lock.json
+requests-list.txt
+*.exe
+*.dll
+*.ts
+*.mkv
+*.mp4
+*.ass
+*.vtt
+*.css
